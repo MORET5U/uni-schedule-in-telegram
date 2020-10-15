@@ -1,5 +1,8 @@
-aiogram==2.10.1
+--extra-index-url https://dev-docs.aiogram.dev/simple
+aiogram==3.0.0a5
 aiohttp[speedups]==3.6.3
 loguru==0.5.3
 pytz==2020.1
 toml==0.10.1
+pendulum==2.1.2
+dateparser==0.7.6
